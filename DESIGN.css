@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+}
+ body{
+     background-color: aqua;
+}
+.kunal{
+    background-color:aqua;
+    background-image: url(PHOTOSS.jpg);
+    height: 400px;
+    width: 480px;
+    text-align: center;
+        margin-top: 50px;
+        margin-left: 450px;
+        color: white;
+        text-align: center;
+        padding-top: 50px;
+        border-radius: 10px; 
+        border-top: 8px solid rgb(255, 0, 200); 
+        border-left: 15px solid rgb(115, 255, 0); 
+        border-right: 15px solid rgb(115, 255, 0);
+        border-bottom: 8px solid rgb(255, 0, 157); 
+}
+h1{text-align: center;
+    padding-top: 130px;
+    font-size: 30px;
+    font-style: italic;
+    color: blue;
+}
